@@ -16,3 +16,24 @@
 - NetflixGPT
    -- Search Bar
    -- Movie Suggestions
+
+# useRef Hook
+
+// regex for email and password
+
+# Firebase for authentication of form
+
+-- npm i firebase
+-- npm i -g firebase-tools
+
+ -- firebase login
+ -- firebase init
+ -- firebase deploy
+
+ -- https://firebase.google.com/docs/auth/web/password-authentication ---> for signIn /signUp
+
+ -- https://firebase.google.com/docs/auth/web/manage-users ---> for onAuthStateChanged
+
+ # useNavigate()
+
+ # fetch from TMDB movies
