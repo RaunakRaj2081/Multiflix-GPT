@@ -12,6 +12,7 @@
           --- Title & Description
           --- Movie suggestions
                ----- MovieLists * N
+                 ------ MovieCards * N
 
 - NetflixGPT
    -- Search Bar
@@ -37,3 +38,11 @@
  # useNavigate()
 
  # fetch from TMDB movies
+
+ # Browse page
+    Maincontainer
+     - videoBackground
+     - videoTitle
+    SecondaryContainer
+     - MovieList * N
+       - cards * N
