@@ -1,6 +1,6 @@
 import React from 'react'
 import GptSearchBar from './GptSearchBar';
-import GptMovieSuggestios from './GptMovieSuggestios';
+import GptMovieSuggestions from './GptMovieSuggestions';
 import {BG_URL} from "../utils/constants";
 
 const GptSearch = () => {
@@ -12,7 +12,7 @@ const GptSearch = () => {
         alt = "Logo" />
       </div>
       <GptSearchBar />
-      <GptMovieSuggestios />
+      <GptMovieSuggestions />
     </div>
   )
 }
