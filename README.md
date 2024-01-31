@@ -45,4 +45,8 @@
      - videoTitle
     SecondaryContainer
      - MovieList * N
-       - cards * N
+       - cards * 
+
+# OPENAI
+ 
+ -- npm install --save openai
